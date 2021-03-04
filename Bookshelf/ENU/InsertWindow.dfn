@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\InsertWindow.dfm" source-language="hr-HR" target-language="en-US" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\InsertWindow.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43259.0231018519</prop>
+        <prop prop-type="OrigDateTime">43255.0838657407</prop>
+        <prop prop-type="XlatDateTime">43254.8063425926</prop>
+        <prop prop-type="Translated">0</prop>
+        <prop prop-type="UnTranslated">124</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:InsertBookForm.Left" resname="O:InsertBookForm.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.Top" resname="O:InsertBookForm.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.Caption" resname="O:InsertBookForm.Caption">
+        <source>'Insert book'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      <alt-trans>  <source>'InsertBookForm'</source>
+          <target>'Insert Book'</target>
+          <prop-group name="ITEFieldProp">
+          <prop prop-type="Modified">43254.9972359722</prop></prop-group>
+        </alt-trans></trans-unit>
+      <trans-unit id="O:InsertBookForm.ClientHeight" resname="O:InsertBookForm.ClientHeight">
+        <source>366</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.ClientWidth" resname="O:InsertBookForm.ClientWidth">
+        <source>326</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.Color" resname="O:InsertBookForm.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.Font.Charset" resname="O:InsertBookForm.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.Font.Color" resname="O:InsertBookForm.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.Font.Height" resname="O:InsertBookForm.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.Font.Name" resname="O:InsertBookForm.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.Font.Style" resname="O:InsertBookForm.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.Menu" resname="O:InsertBookForm.Menu">
+        <source>MainMenu1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.OldCreateOrder" resname="O:InsertBookForm.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.OnCreate" resname="O:InsertBookForm.OnCreate">
+        <source>FormCreate</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.PixelsPerInch" resname="O:InsertBookForm.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.TextHeight" resname="O:InsertBookForm.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TInsertBookForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label2.Left" resname="O:InsertBookForm.O:Label2.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label2.Top" resname="O:InsertBookForm.O:Label2.Top">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label2.Width" resname="O:InsertBookForm.O:Label2.Width">
+        <source>33</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label2.Height" resname="O:InsertBookForm.O:Label2.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label2.Caption" resname="O:InsertBookForm.O:Label2.Caption">
+        <source>'Author'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label3.Left" resname="O:InsertBookForm.O:Label3.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label3.Top" resname="O:InsertBookForm.O:Label3.Top">
+        <source>59</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label3.Width" resname="O:InsertBookForm.O:Label3.Width">
+        <source>52</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label3.Height" resname="O:InsertBookForm.O:Label3.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label3.Caption" resname="O:InsertBookForm.O:Label3.Caption">
+        <source>'Book name'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label4.Left" resname="O:InsertBookForm.O:Label4.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label4.Top" resname="O:InsertBookForm.O:Label4.Top">
+        <source>109</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label4.Width" resname="O:InsertBookForm.O:Label4.Width">
+        <source>53</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label4.Height" resname="O:InsertBookForm.O:Label4.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label4.Caption" resname="O:InsertBookForm.O:Label4.Caption">
+        <source>'Description'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label5.Left" resname="O:InsertBookForm.O:Label5.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label5.Top" resname="O:InsertBookForm.O:Label5.Top">
+        <source>223</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label5.Width" resname="O:InsertBookForm.O:Label5.Width">
+        <source>31</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label5.Height" resname="O:InsertBookForm.O:Label5.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label5.Caption" resname="O:InsertBookForm.O:Label5.Caption">
+        <source>'Status'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label6.Left" resname="O:InsertBookForm.O:Label6.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label6.Top" resname="O:InsertBookForm.O:Label6.Top">
+        <source>269</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label6.Width" resname="O:InsertBookForm.O:Label6.Width">
+        <source>29</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label6.Height" resname="O:InsertBookForm.O:Label6.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:Label6.Caption" resname="O:InsertBookForm.O:Label6.Caption">
+        <source>'Pages'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ButtonAddBook.Left" resname="O:InsertBookForm.O:ButtonAddBook.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ButtonAddBook.Top" resname="O:InsertBookForm.O:ButtonAddBook.Top">
+        <source>328</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ButtonAddBook.Width" resname="O:InsertBookForm.O:ButtonAddBook.Width">
+        <source>245</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ButtonAddBook.Height" resname="O:InsertBookForm.O:ButtonAddBook.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ButtonAddBook.Caption" resname="O:InsertBookForm.O:ButtonAddBook.Caption">
+        <source>'Add book'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ButtonAddBook.TabOrder" resname="O:InsertBookForm.O:ButtonAddBook.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ButtonAddBook.OnClick" resname="O:InsertBookForm.O:ButtonAddBook.OnClick">
+        <source>ButtonAddBookClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EAuthor.Left" resname="O:InsertBookForm.O:EAuthor.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EAuthor.Top" resname="O:InsertBookForm.O:EAuthor.Top">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EAuthor.Width" resname="O:InsertBookForm.O:EAuthor.Width">
+        <source>245</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EAuthor.Height" resname="O:InsertBookForm.O:EAuthor.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EAuthor.TabOrder" resname="O:InsertBookForm.O:EAuthor.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EBookName.Left" resname="O:InsertBookForm.O:EBookName.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EBookName.Top" resname="O:InsertBookForm.O:EBookName.Top">
+        <source>78</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EBookName.Width" resname="O:InsertBookForm.O:EBookName.Width">
+        <source>245</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EBookName.Height" resname="O:InsertBookForm.O:EBookName.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EBookName.TabOrder" resname="O:InsertBookForm.O:EBookName.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EPages.Left" resname="O:InsertBookForm.O:EPages.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EPages.Top" resname="O:InsertBookForm.O:EPages.Top">
+        <source>288</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EPages.Width" resname="O:InsertBookForm.O:EPages.Width">
+        <source>245</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EPages.Height" resname="O:InsertBookForm.O:EPages.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EPages.NumbersOnly" resname="O:InsertBookForm.O:EPages.NumbersOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EPages.TabOrder" resname="O:InsertBookForm.O:EPages.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:chooseStatus.Left" resname="O:InsertBookForm.O:chooseStatus.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:chooseStatus.Top" resname="O:InsertBookForm.O:chooseStatus.Top">
+        <source>242</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:chooseStatus.Width" resname="O:InsertBookForm.O:chooseStatus.Width">
+        <source>145</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:chooseStatus.Height" resname="O:InsertBookForm.O:chooseStatus.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:chooseStatus.DataField" resname="O:InsertBookForm.O:chooseStatus.DataField">
+        <source>'status'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:chooseStatus.DataSource" resname="O:InsertBookForm.O:chooseStatus.DataSource">
+        <source>DBooks</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195486</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:chooseStatus.KeyField" resname="O:InsertBookForm.O:chooseStatus.KeyField">
+        <source>'state'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:chooseStatus.ListField" resname="O:InsertBookForm.O:chooseStatus.ListField">
+        <source>'state'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:chooseStatus.ListSource" resname="O:InsertBookForm.O:chooseStatus.ListSource">
+        <source>DStatus</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:chooseStatus.TabOrder" resname="O:InsertBookForm.O:chooseStatus.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TDBLookupComboBox</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EDescription.Left" resname="O:InsertBookForm.O:EDescription.Left">
+        <source>20</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EDescription.Top" resname="O:InsertBookForm.O:EDescription.Top">
+        <source>128</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EDescription.Width" resname="O:InsertBookForm.O:EDescription.Width">
+        <source>245</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EDescription.Height" resname="O:InsertBookForm.O:EDescription.Height">
+        <source>85</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EDescription.AutoSize" resname="O:InsertBookForm.O:EDescription.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:EDescription.TabOrder" resname="O:InsertBookForm.O:EDescription.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TStatus.Connection" resname="O:InsertBookForm.O:TStatus.Connection">
+        <source>ADOConnection1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TStatus.CursorType" resname="O:InsertBookForm.O:TStatus.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TStatus.TableName" resname="O:InsertBookForm.O:TStatus.TableName">
+        <source>'Status'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TStatus.Left" resname="O:InsertBookForm.O:TStatus.Left">
+        <source>280</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TStatus.Top" resname="O:InsertBookForm.O:TStatus.Top">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:DStatus.DataSet" resname="O:InsertBookForm.O:DStatus.DataSet">
+        <source>TStatus</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:DStatus.Left" resname="O:InsertBookForm.O:DStatus.Left">
+        <source>216</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:DStatus.Top" resname="O:InsertBookForm.O:DStatus.Top">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:DBooks.DataSet" resname="O:InsertBookForm.O:DBooks.DataSet">
+        <source>TBooks</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:DBooks.Left" resname="O:InsertBookForm.O:DBooks.Left">
+        <source>216</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:DBooks.Top" resname="O:InsertBookForm.O:DBooks.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TDataSource</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.Connection" resname="O:InsertBookForm.O:TBooks.Connection">
+        <source>ADOConnection1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.CursorType" resname="O:InsertBookForm.O:TBooks.CursorType">
+        <source>ctStatic</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.TableDirect" resname="O:InsertBookForm.O:TBooks.TableDirect">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.TableName" resname="O:InsertBookForm.O:TBooks.TableName">
+        <source>'Books'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.Left" resname="O:InsertBookForm.O:TBooks.Left">
+        <source>280</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.Top" resname="O:InsertBookForm.O:TBooks.Top">
+        <source>104</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TADOTable</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBooksID.FieldName" resname="O:InsertBookForm.O:TBooks.O:TBooksID.FieldName">
+        <source>'ID'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TAutoIncField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBooksID.ReadOnly" resname="O:InsertBookForm.O:TBooks.O:TBooksID.ReadOnly">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TAutoIncField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBooksauthorName.FieldName" resname="O:InsertBookForm.O:TBooks.O:TBooksauthorName.FieldName">
+        <source>'authorName'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBooksauthorName.Size" resname="O:InsertBookForm.O:TBooks.O:TBooksauthorName.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBooksbookName.FieldName" resname="O:InsertBookForm.O:TBooks.O:TBooksbookName.FieldName">
+        <source>'bookName'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBooksbookName.Size" resname="O:InsertBookForm.O:TBooks.O:TBooksbookName.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBooksdescription.FieldName" resname="O:InsertBookForm.O:TBooks.O:TBooksdescription.FieldName">
+        <source>'description'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TWideMemoField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBooksdescription.BlobType" resname="O:InsertBookForm.O:TBooks.O:TBooksdescription.BlobType">
+        <source>ftWideMemo</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TWideMemoField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBooksstatus.FieldName" resname="O:InsertBookForm.O:TBooks.O:TBooksstatus.FieldName">
+        <source>'status'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBooksstatus.Size" resname="O:InsertBookForm.O:TBooks.O:TBooksstatus.Size">
+        <source>255</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TWideStringField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:TBooks.O:TBookspages.FieldName" resname="O:InsertBookForm.O:TBooks.O:TBookspages.FieldName">
+        <source>'pages'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TIntegerField</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ADOConnection1.Connected" resname="O:InsertBookForm.O:ADOConnection1.Connected">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ADOConnection1.ConnectionString" resname="O:InsertBookForm.O:ADOConnection1.ConnectionString">
+        <source>'Provider=Microsoft.Jet.OLEDB.4.0;Data Source=C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\Bookshelf.mdb;Persist Security Info=False'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ADOConnection1.LoginPrompt" resname="O:InsertBookForm.O:ADOConnection1.LoginPrompt">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ADOConnection1.Mode" resname="O:InsertBookForm.O:ADOConnection1.Mode">
+        <source>cmShareDenyNone</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ADOConnection1.Provider" resname="O:InsertBookForm.O:ADOConnection1.Provider">
+        <source>'Microsoft.Jet.OLEDB.4.0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ADOConnection1.Left" resname="O:InsertBookForm.O:ADOConnection1.Left">
+        <source>280</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:ADOConnection1.Top" resname="O:InsertBookForm.O:ADOConnection1.Top">
+        <source>16</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TADOConnection</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:MainMenu1.Left" resname="O:InsertBookForm.O:MainMenu1.Left">
+        <source>216</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TMainMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:MainMenu1.Top" resname="O:InsertBookForm.O:MainMenu1.Top">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TMainMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:MainMenu1.O:Books.Caption" resname="O:InsertBookForm.O:MainMenu1.O:Books.Caption">
+        <source>'Books'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:MainMenu1.O:Books.O:Showbooks1.Caption" resname="O:InsertBookForm.O:MainMenu1.O:Books.O:Showbooks1.Caption">
+        <source>'Show books'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:MainMenu1.O:Books.O:Showbooks1.OnClick" resname="O:InsertBookForm.O:MainMenu1.O:Books.O:Showbooks1.OnClick">
+        <source>Showbooks1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:MainMenu1.O:Books.O:Insertbook1.Caption" resname="O:InsertBookForm.O:MainMenu1.O:Books.O:Insertbook1.Caption">
+        <source>'Insert book'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:MainMenu1.O:Books.O:Insertbook1.OnClick" resname="O:InsertBookForm.O:MainMenu1.O:Books.O:Insertbook1.OnClick">
+        <source>Insertbook1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:MainMenu1.O:Transfer.Caption" resname="O:InsertBookForm.O:MainMenu1.O:Transfer.Caption">
+        <source>'Transfer'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:InsertBookForm.O:MainMenu1.O:Transfer.OnClick" resname="O:InsertBookForm.O:MainMenu1.O:Transfer.OnClick">
+        <source>TransferClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023195602</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

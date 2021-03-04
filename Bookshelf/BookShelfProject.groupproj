@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{B06FAE9A-AFE5-4B64-AC1F-DDFC007BDA47}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="Bookshelf.cbproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="HRV\Bookshelf_HRV.bdsproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ENU\Bookshelf_ENU.bdsproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="Bookshelf">
+        <MSBuild Projects="Bookshelf.cbproj"/>
+    </Target>
+    <Target Name="Bookshelf:Clean">
+        <MSBuild Projects="Bookshelf.cbproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Bookshelf:Make">
+        <MSBuild Projects="Bookshelf.cbproj" Targets="Make"/>
+    </Target>
+    <Target Name="Bookshelf_HRV">
+        <MSBuild Projects="HRV\Bookshelf_HRV.bdsproj"/>
+    </Target>
+    <Target Name="Bookshelf_HRV:Clean">
+        <MSBuild Projects="HRV\Bookshelf_HRV.bdsproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Bookshelf_HRV:Make">
+        <MSBuild Projects="HRV\Bookshelf_HRV.bdsproj" Targets="Make"/>
+    </Target>
+    <Target Name="Bookshelf_ENU">
+        <MSBuild Projects="ENU\Bookshelf_ENU.bdsproj"/>
+    </Target>
+    <Target Name="Bookshelf_ENU:Clean">
+        <MSBuild Projects="ENU\Bookshelf_ENU.bdsproj" Targets="Clean"/>
+    </Target>
+    <Target Name="Bookshelf_ENU:Make">
+        <MSBuild Projects="ENU\Bookshelf_ENU.bdsproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="Bookshelf;Bookshelf_HRV;Bookshelf_ENU"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="Bookshelf:Clean;Bookshelf_HRV:Clean;Bookshelf_ENU:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="Bookshelf:Make;Bookshelf_HRV:Make;Bookshelf_ENU:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.620,=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.853,=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.dfm=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\InsertWindow.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.cpp=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\InsertWindow.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.595,=C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\Book.dll</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Main.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Main.dfm=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\MainWindowCode.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.279,C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.dfm=C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\TransferWindow.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.322,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.093,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\BookshelfPCH1.h=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\BookshelfPCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.279,C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.h=C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\TransferWindow.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.279,C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.cpp=C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\TransferWindow.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.506,=C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainWindowCode.dfm=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainWindow.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainWindowCode.h=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainWindow.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\MainWindowCode.dfm=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainWindowCode.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.069,=C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\Book.lib</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainMenuFrame.cpp=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\MainWindowCode.h=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainWindowCode.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Main.cpp=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\MainWindowCode.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.150,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainMenuFrame.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.472,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\MainWindowCode.cpp=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainWindowCode.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.025,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Main.h=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\MainWindowCode.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainMenuFrame.dfm=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Main.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,=C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\reinit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.300,=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.772,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.094,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.h=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\InsertWindow.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.104,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf.cbproj=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\Bookshelf.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.986,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainWindowCode.cpp=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainWindow.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.384,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\MainMenuFrame.h=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Bookshelf\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.897,=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.306,C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Mihaela\Documents\Embarcadero\Studio\Projects\BookshelfPCH1.h</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Bookshelf.cpp"/>
+    <File Path="BookshelfPCH1.h"/>
+    <File Path="InsertWindow.cpp"/>
+    <File Path="InsertWindow.cpp"/>
+    <File Path="InsertWindow.dfm"/>
+    <File Path="InsertWindow.h"/>
+    <File Path="MainWindow.cpp"/>
+    <File Path="MainWindow.cpp"/>
+    <File Path="MainWindow.dfm"/>
+    <File Path="MainWindow.h"/>
+    <File Path="TransferWindow.cpp"/>
+    <File Path="TransferWindow.cpp"/>
+    <File Path="TransferWindow.dfm"/>
+    <File Path="TransferWindow.h"/>
+    <File Path="Book.lib"/>
+    <File Path="reinit.pas"/>
+    <File Path="Book.dll"/>
+  </ProjectSortOrder>
+</BorlandProject>

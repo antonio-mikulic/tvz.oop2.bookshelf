@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" "http://www.oasis-open.org/committees/xliff/documents/xliff.dtd">
+<xliff version="1.0">
+  <file original="C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\TransferWindow.dfm" source-language="hr-HR" target-language="hr-HR" datatype="delphiform" tool="ETM v10.0" ts="C:\Users\Antonio\Documents\Embarcadero\Studio\Projects\Bookshelf\TransferWindow.dfm">
+    <header>
+      <prop-group name="ITEHeaderProp">
+        <prop prop-type="Version">9.0</prop>
+        <prop prop-type="SelfDateTime">43259.0257175926</prop>
+        <prop prop-type="OrigDateTime">43259.0255092593</prop>
+        <prop prop-type="XlatDateTime">43254.9904166667</prop>
+        <prop prop-type="Translated">14</prop>
+        <prop prop-type="UnTranslated">139</prop>
+      </prop-group>
+    </header>
+    <body>
+      <trans-unit id="O:TransferForm.Left" resname="O:TransferForm.Left">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">0</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.Top" resname="O:TransferForm.Top">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">1</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.Caption" resname="O:TransferForm.Caption">
+        <source>'Transfer'</source>
+        <target>'Prenesi knjigu'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">1</prop><prop prop-type="Order">2</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.ClientHeight" resname="O:TransferForm.ClientHeight">
+        <source>304</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">3</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.ClientWidth" resname="O:TransferForm.ClientWidth">
+        <source>670</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">4</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.Color" resname="O:TransferForm.Color">
+        <source>clBtnFace</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">5</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.Font.Charset" resname="O:TransferForm.Font.Charset">
+        <source>DEFAULT_CHARSET</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">6</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.Font.Color" resname="O:TransferForm.Font.Color">
+        <source>clWindowText</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">7</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.Font.Height" resname="O:TransferForm.Font.Height">
+        <source>-11</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">8</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.Font.Name" resname="O:TransferForm.Font.Name">
+        <source>'Tahoma'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">9</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.Font.Style" resname="O:TransferForm.Font.Style">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">10</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.Menu" resname="O:TransferForm.Menu">
+        <source>MainMenu1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">11</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.OldCreateOrder" resname="O:TransferForm.OldCreateOrder">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">12</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.PixelsPerInch" resname="O:TransferForm.PixelsPerInch">
+        <source>96</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">13</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.TextHeight" resname="O:TransferForm.TextHeight">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">14</prop><prop prop-type="Type">TTransferForm</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label1.Left" resname="O:TransferForm.O:Label1.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">15</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label1.Top" resname="O:TransferForm.O:Label1.Top">
+        <source>27</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">16</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label1.Width" resname="O:TransferForm.O:Label1.Width">
+        <source>41</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">17</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label1.Height" resname="O:TransferForm.O:Label1.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">18</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label1.Caption" resname="O:TransferForm.O:Label1.Caption">
+        <source>'File path'</source>
+        <target>'Datoteka'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">1</prop><prop prop-type="Order">19</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label2.Left" resname="O:TransferForm.O:Label2.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">20</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label2.Top" resname="O:TransferForm.O:Label2.Top">
+        <source>224</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">21</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label2.Width" resname="O:TransferForm.O:Label2.Width">
+        <source>22</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">22</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label2.Height" resname="O:TransferForm.O:Label2.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">23</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label2.Caption" resname="O:TransferForm.O:Label2.Caption">
+        <source>'Host'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">24</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label3.Left" resname="O:TransferForm.O:Label3.Left">
+        <source>271</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175579</prop><prop prop-type="Status">0</prop><prop prop-type="Order">25</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label3.Top" resname="O:TransferForm.O:Label3.Top">
+        <source>224</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">26</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label3.Width" resname="O:TransferForm.O:Label3.Width">
+        <source>42</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">27</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label3.Height" resname="O:TransferForm.O:Label3.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">28</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label3.Caption" resname="O:TransferForm.O:Label3.Caption">
+        <source>'Receiver'</source>
+        <target>'Primatelj'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">1</prop><prop prop-type="Order">29</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label4.Left" resname="O:TransferForm.O:Label4.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">30</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label4.Top" resname="O:TransferForm.O:Label4.Top">
+        <source>142</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">31</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label4.Width" resname="O:TransferForm.O:Label4.Width">
+        <source>46</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">32</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label4.Height" resname="O:TransferForm.O:Label4.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">33</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label4.Caption" resname="O:TransferForm.O:Label4.Caption">
+        <source>'Password'</source>
+        <target>'Šifra'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">1</prop><prop prop-type="Order">34</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label5.Left" resname="O:TransferForm.O:Label5.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">35</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label5.Top" resname="O:TransferForm.O:Label5.Top">
+        <source>51</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">36</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label5.Width" resname="O:TransferForm.O:Label5.Width">
+        <source>72</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">37</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label5.Height" resname="O:TransferForm.O:Label5.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">38</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label5.Caption" resname="O:TransferForm.O:Label5.Caption">
+        <source>'Download Path'</source>
+        <target>'Mjesto spremanja'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">1</prop><prop prop-type="Order">39</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label6.Left" resname="O:TransferForm.O:Label6.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">40</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label6.Top" resname="O:TransferForm.O:Label6.Top">
+        <source>166</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">41</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label6.Width" resname="O:TransferForm.O:Label6.Width">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">42</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label6.Height" resname="O:TransferForm.O:Label6.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">43</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label6.Caption" resname="O:TransferForm.O:Label6.Caption">
+        <source>'Hash'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">44</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:connectionMessage.Left" resname="O:TransferForm.O:connectionMessage.Left">
+        <source>408</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">45</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:connectionMessage.Top" resname="O:TransferForm.O:connectionMessage.Top">
+        <source>264</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">46</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:connectionMessage.Width" resname="O:TransferForm.O:connectionMessage.Width">
+        <source>249</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">47</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:connectionMessage.Height" resname="O:TransferForm.O:connectionMessage.Height">
+        <source>32</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">48</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:connectionMessage.AutoSize" resname="O:TransferForm.O:connectionMessage.AutoSize">
+        <source>False</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">49</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label7.Left" resname="O:TransferForm.O:Label7.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">50</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label7.Top" resname="O:TransferForm.O:Label7.Top">
+        <source>100</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">51</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label7.Width" resname="O:TransferForm.O:Label7.Width">
+        <source>67</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">52</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label7.Height" resname="O:TransferForm.O:Label7.Height">
+        <source>13</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">53</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Label7.Caption" resname="O:TransferForm.O:Label7.Caption">
+        <source>'New file name'</source>
+        <target>'Ime nove datoteke'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">1</prop><prop prop-type="Order">54</prop><prop prop-type="Type">TLabel</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button1.Left" resname="O:TransferForm.O:Button1.Left">
+        <source>503</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">55</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button1.Top" resname="O:TransferForm.O:Button1.Top">
+        <source>219</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">56</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button1.Width" resname="O:TransferForm.O:Button1.Width">
+        <source>106</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">57</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button1.Height" resname="O:TransferForm.O:Button1.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">58</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button1.Caption" resname="O:TransferForm.O:Button1.Caption">
+        <source>'Send'</source>
+        <target>'Pošalji'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">1</prop><prop prop-type="Order">59</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button1.TabOrder" resname="O:TransferForm.O:Button1.TabOrder">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">60</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button1.OnClick" resname="O:TransferForm.O:Button1.OnClick">
+        <source>Button1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">61</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EPath.Left" resname="O:TransferForm.O:EPath.Left">
+        <source>55</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">62</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EPath.Top" resname="O:TransferForm.O:EPath.Top">
+        <source>24</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">63</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EPath.Width" resname="O:TransferForm.O:EPath.Width">
+        <source>434</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">64</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EPath.Height" resname="O:TransferForm.O:EPath.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">65</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EPath.TabOrder" resname="O:TransferForm.O:EPath.TabOrder">
+        <source>1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">66</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHost.Left" resname="O:TransferForm.O:EHost.Left">
+        <source>57</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">67</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHost.Top" resname="O:TransferForm.O:EHost.Top">
+        <source>221</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">68</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHost.Width" resname="O:TransferForm.O:EHost.Width">
+        <source>160</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">69</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHost.Height" resname="O:TransferForm.O:EHost.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">70</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHost.TabOrder" resname="O:TransferForm.O:EHost.TabOrder">
+        <source>2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">71</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHost.Text" resname="O:TransferForm.O:EHost.Text">
+        <source>'127.0.0.1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">72</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EReceiver.Left" resname="O:TransferForm.O:EReceiver.Left">
+        <source>319</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">73</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EReceiver.Top" resname="O:TransferForm.O:EReceiver.Top">
+        <source>221</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">74</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EReceiver.Width" resname="O:TransferForm.O:EReceiver.Width">
+        <source>170</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">75</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EReceiver.Height" resname="O:TransferForm.O:EReceiver.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">76</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EReceiver.TabOrder" resname="O:TransferForm.O:EReceiver.TabOrder">
+        <source>3</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">77</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EPassword.Left" resname="O:TransferForm.O:EPassword.Left">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">78</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EPassword.Top" resname="O:TransferForm.O:EPassword.Top">
+        <source>139</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">79</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EPassword.Width" resname="O:TransferForm.O:EPassword.Width">
+        <source>429</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">80</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EPassword.Height" resname="O:TransferForm.O:EPassword.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">81</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EPassword.TabOrder" resname="O:TransferForm.O:EPassword.TabOrder">
+        <source>4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">82</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:BSetPath.Left" resname="O:TransferForm.O:BSetPath.Left">
+        <source>503</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">83</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:BSetPath.Top" resname="O:TransferForm.O:BSetPath.Top">
+        <source>22</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">84</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:BSetPath.Width" resname="O:TransferForm.O:BSetPath.Width">
+        <source>106</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">85</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:BSetPath.Height" resname="O:TransferForm.O:BSetPath.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">86</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:BSetPath.Hint" resname="O:TransferForm.O:BSetPath.Hint">
+        <source>'Open|Opens an existing file'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">87</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:BSetPath.Caption" resname="O:TransferForm.O:BSetPath.Caption">
+        <source>'&amp;Open...'</source>
+        <target>'Pronađi datoteku'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">1</prop><prop prop-type="Order">88</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:BSetPath.ImageIndex" resname="O:TransferForm.O:BSetPath.ImageIndex">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">89</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:BSetPath.TabOrder" resname="O:TransferForm.O:BSetPath.TabOrder">
+        <source>5</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">90</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:BSetPath.OnClick" resname="O:TransferForm.O:BSetPath.OnClick">
+        <source>BSetPathClick</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">91</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EDownloadPath.Left" resname="O:TransferForm.O:EDownloadPath.Left">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">92</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EDownloadPath.Top" resname="O:TransferForm.O:EDownloadPath.Top">
+        <source>70</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">93</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EDownloadPath.Width" resname="O:TransferForm.O:EDownloadPath.Width">
+        <source>481</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">94</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EDownloadPath.Height" resname="O:TransferForm.O:EDownloadPath.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">95</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EDownloadPath.TabOrder" resname="O:TransferForm.O:EDownloadPath.TabOrder">
+        <source>6</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.0023175694</prop><prop prop-type="Status">0</prop><prop prop-type="Order">96</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button2.Left" resname="O:TransferForm.O:Button2.Left">
+        <source>503</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">97</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button2.Top" resname="O:TransferForm.O:Button2.Top">
+        <source>68</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">98</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button2.Width" resname="O:TransferForm.O:Button2.Width">
+        <source>106</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">99</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button2.Height" resname="O:TransferForm.O:Button2.Height">
+        <source>25</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">100</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button2.Action" resname="O:TransferForm.O:Button2.Action">
+        <source>BrowseForFolder2</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">101</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button2.Caption" resname="O:TransferForm.O:Button2.Caption">
+        <source>'Set download path'</source>
+        <target>'Postavi mjesto preuzimanja'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">1</prop><prop prop-type="Order">102</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button2.TabOrder" resname="O:TransferForm.O:Button2.TabOrder">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">103</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:Button2.OnClick" resname="O:TransferForm.O:Button2.OnClick">
+        <source>Button2Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">104</prop><prop prop-type="Type">TButton</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHash.Left" resname="O:TransferForm.O:EHash.Left">
+        <source>60</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">105</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHash.Top" resname="O:TransferForm.O:EHash.Top">
+        <source>166</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">106</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHash.Width" resname="O:TransferForm.O:EHash.Width">
+        <source>429</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">107</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHash.Height" resname="O:TransferForm.O:EHash.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">108</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:EHash.TabOrder" resname="O:TransferForm.O:EHash.TabOrder">
+        <source>8</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">109</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ENewFileName.Left" resname="O:TransferForm.O:ENewFileName.Left">
+        <source>81</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">110</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ENewFileName.Top" resname="O:TransferForm.O:ENewFileName.Top">
+        <source>97</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">111</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ENewFileName.Width" resname="O:TransferForm.O:ENewFileName.Width">
+        <source>408</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">112</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ENewFileName.Height" resname="O:TransferForm.O:ENewFileName.Height">
+        <source>21</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">113</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ENewFileName.TabOrder" resname="O:TransferForm.O:ENewFileName.TabOrder">
+        <source>9</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">114</prop><prop prop-type="Type">TEdit</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:MainMenu1.Left" resname="O:TransferForm.O:MainMenu1.Left">
+        <source>200</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">115</prop><prop prop-type="Type">TMainMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:MainMenu1.Top" resname="O:TransferForm.O:MainMenu1.Top">
+        <source>65512</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">116</prop><prop prop-type="Type">TMainMenu</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:MainMenu1.O:Books1.Caption" resname="O:TransferForm.O:MainMenu1.O:Books1.Caption">
+        <source>'Books'</source>
+        <target>'Knjige'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">1</prop><prop prop-type="Order">117</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:MainMenu1.O:Books1.O:Showbooks1.Caption" resname="O:TransferForm.O:MainMenu1.O:Books1.O:Showbooks1.Caption">
+        <source>'Show books'</source>
+        <target>'Prikaži knjige'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">1</prop><prop prop-type="Order">118</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:MainMenu1.O:Books1.O:Showbooks1.OnClick" resname="O:TransferForm.O:MainMenu1.O:Books1.O:Showbooks1.OnClick">
+        <source>Showbooks1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">119</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:MainMenu1.O:Books1.O:Insertbook1.Caption" resname="O:TransferForm.O:MainMenu1.O:Books1.O:Insertbook1.Caption">
+        <source>'Insert book'</source>
+        <target>'Dodaj novu knjigu'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">1</prop><prop prop-type="Order">120</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:MainMenu1.O:Books1.O:Insertbook1.OnClick" resname="O:TransferForm.O:MainMenu1.O:Books1.O:Insertbook1.OnClick">
+        <source>Insertbook1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">121</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:MainMenu1.O:Transfer1.Caption" resname="O:TransferForm.O:MainMenu1.O:Transfer1.Caption">
+        <source>'Transfer'</source>
+        <target>'Prijenos'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">1</prop><prop prop-type="Order">122</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:MainMenu1.O:Transfer1.OnClick" resname="O:TransferForm.O:MainMenu1.O:Transfer1.OnClick">
+        <source>Transfer1Click</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">123</prop><prop prop-type="Type">TMenuItem</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferClient.ConnectTimeout" resname="O:TransferForm.O:TCPTransferClient.ConnectTimeout">
+        <source>0</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">124</prop><prop prop-type="Type">TIdTCPClient</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferClient.IPVersion" resname="O:TransferForm.O:TCPTransferClient.IPVersion">
+        <source>Id_IPv4</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">125</prop><prop prop-type="Type">TIdTCPClient</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferClient.Port" resname="O:TransferForm.O:TCPTransferClient.Port">
+        <source>25585</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">126</prop><prop prop-type="Type">TIdTCPClient</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferClient.ReadTimeout" resname="O:TransferForm.O:TCPTransferClient.ReadTimeout">
+        <source>-1</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">127</prop><prop prop-type="Type">TIdTCPClient</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferClient.Left" resname="O:TransferForm.O:TCPTransferClient.Left">
+        <source>208</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">128</prop><prop prop-type="Type">TIdTCPClient</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferClient.Top" resname="O:TransferForm.O:TCPTransferClient.Top">
+        <source>237</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">129</prop><prop prop-type="Type">TIdTCPClient</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferServer.Active" resname="O:TransferForm.O:TCPTransferServer.Active">
+        <source>True</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">130</prop><prop prop-type="Type">TIdTCPServer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferServer.Bindings[0].IP" resname="O:TransferForm.O:TCPTransferServer.Bindings[0].IP">
+        <source>'0.0.0.0'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">131</prop><prop prop-type="Type">C:TIdTCPServer</prop><prop prop-type="Localize">1</prop><prop prop-type="Open">&lt;item</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferServer.Bindings[0].Port" resname="O:TransferForm.O:TCPTransferServer.Bindings[0].Port">
+        <source>25585</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">132</prop><prop prop-type="Type">C:TIdTCPServer</prop><prop prop-type="Localize">1</prop><prop prop-type="Close">end&gt;</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferServer.DefaultPort" resname="O:TransferForm.O:TCPTransferServer.DefaultPort">
+        <source>25585</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">133</prop><prop prop-type="Type">TIdTCPServer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferServer.OnExecute" resname="O:TransferForm.O:TCPTransferServer.OnExecute">
+        <source>TCPTransferServerExecute</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">134</prop><prop prop-type="Type">TIdTCPServer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferServer.Left" resname="O:TransferForm.O:TCPTransferServer.Left">
+        <source>336</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">135</prop><prop prop-type="Type">TIdTCPServer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:TCPTransferServer.Top" resname="O:TransferForm.O:TCPTransferServer.Top">
+        <source>240</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">136</prop><prop prop-type="Type">TIdTCPServer</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.Left" resname="O:TransferForm.O:ActionList1.Left">
+        <source>368</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">137</prop><prop prop-type="Type">TActionList</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:BrowseForFolder1.Category" resname="O:TransferForm.O:ActionList1.O:BrowseForFolder1.Category">
+        <source>'File'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">138</prop><prop prop-type="Type">TBrowseForFolder</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:BrowseForFolder1.Caption" resname="O:TransferForm.O:ActionList1.O:BrowseForFolder1.Caption">
+        <source>'BrowseForFolder1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">139</prop><prop prop-type="Type">TBrowseForFolder</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:BrowseForFolder1.DialogCaption" resname="O:TransferForm.O:ActionList1.O:BrowseForFolder1.DialogCaption">
+        <source>'BrowseForFolder1'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">140</prop><prop prop-type="Type">TBrowseForFolder</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:BrowseForFolder1.BrowseOptions" resname="O:TransferForm.O:ActionList1.O:BrowseForFolder1.BrowseOptions">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">141</prop><prop prop-type="Type">TBrowseForFolder</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:BrowseForFolder1.BrowseOptionsEx" resname="O:TransferForm.O:ActionList1.O:BrowseForFolder1.BrowseOptionsEx">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">142</prop><prop prop-type="Type">TBrowseForFolder</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:BrowseForFolder2.Category" resname="O:TransferForm.O:ActionList1.O:BrowseForFolder2.Category">
+        <source>'File'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">143</prop><prop prop-type="Type">TBrowseForFolder</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:BrowseForFolder2.Caption" resname="O:TransferForm.O:ActionList1.O:BrowseForFolder2.Caption">
+        <source>'BrowseForFolder2'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">144</prop><prop prop-type="Type">TBrowseForFolder</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:BrowseForFolder2.DialogCaption" resname="O:TransferForm.O:ActionList1.O:BrowseForFolder2.DialogCaption">
+        <source>'BrowseForFolder2'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">145</prop><prop prop-type="Type">TBrowseForFolder</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:BrowseForFolder2.BrowseOptions" resname="O:TransferForm.O:ActionList1.O:BrowseForFolder2.BrowseOptions">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">146</prop><prop prop-type="Type">TBrowseForFolder</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:BrowseForFolder2.BrowseOptionsEx" resname="O:TransferForm.O:ActionList1.O:BrowseForFolder2.BrowseOptionsEx">
+        <source>[]</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">147</prop><prop prop-type="Type">TBrowseForFolder</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:FileOpen2.Category" resname="O:TransferForm.O:ActionList1.O:FileOpen2.Category">
+        <source>'File'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">148</prop><prop prop-type="Type">TFileOpen</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:FileOpen2.Caption" resname="O:TransferForm.O:ActionList1.O:FileOpen2.Caption">
+        <source>'&amp;Open...'</source>
+        <target>'Otvori datoteku'</target>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">1</prop><prop prop-type="Order">149</prop><prop prop-type="Type">TFileOpen</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:FileOpen2.Hint" resname="O:TransferForm.O:ActionList1.O:FileOpen2.Hint">
+        <source>'Open|Opens an existing file'</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">150</prop><prop prop-type="Type">TFileOpen</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:FileOpen2.ImageIndex" resname="O:TransferForm.O:ActionList1.O:FileOpen2.ImageIndex">
+        <source>7</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">151</prop><prop prop-type="Type">TFileOpen</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+      <trans-unit id="O:TransferForm.O:ActionList1.O:FileOpen2.ShortCut" resname="O:TransferForm.O:ActionList1.O:FileOpen2.ShortCut">
+        <source>16463</source>
+        <prop-group name="ITEFieldProp">
+        <prop prop-type="Created">43255.002317581</prop><prop prop-type="Status">0</prop><prop prop-type="Order">152</prop><prop prop-type="Type">TFileOpen</prop><prop prop-type="Localize">1</prop></prop-group>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

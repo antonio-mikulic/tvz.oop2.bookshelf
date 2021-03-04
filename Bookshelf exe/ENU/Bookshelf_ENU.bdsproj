@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<PersonalityInfo>
+		<Option>
+			<Option Name="Personality">W32ResourceDLL.Personality</Option>
+			<Option Name="ProjectType">ResourceDLL</Option>
+			<Option Name="Version">1.0</Option>
+			<Option Name="GUID">{B3D50FB5-EF9D-4CAF-9CED-19459B9FC67C}</Option>
+		</Option>
+	</PersonalityInfo>
+	<W32ResourceDLL.Personality>
+		<Source>
+			<Source Name="MainSource">Bookshelf.dpr</Source>
+		</Source>
+		<Options>
+			<Options Name="BaseLang">1050</Options>
+			<Options Name="TargetName">..\.\Bookshelf.ENU</Options>
+			<Options Name="BRCC_IncludePath">Bookshelf\</Options>
+			<Options Name="Company"></Options>
+			<Options Name="Configuration"></Options>
+			<Options Name="Copyright"></Options>
+			<Options Name="Description"></Options>
+			<Options Name="Trademark"></Options>
+			<Options Name="Product"></Options>
+			<Options Name="ProductVersion"></Options>
+			<Options Name="Title"></Options>
+			<Options Name="FileVersion"></Options>
+			<Options Name="Evidence"></Options>
+			<Options Name="KeyFile"></Options>
+			<Options Name="KeyName"></Options>
+		</Options>
+		<FileList><File FileName="InsertWindow.dfm" ContainerId="W32Form" ModuleName="InsertWindow.dfm"/><File FileName="MainWindow.dfm" ContainerId="W32Form" ModuleName="MainWindow.dfm"/><File FileName="TransferWindow.dfm" ContainerId="W32Form" ModuleName="TransferWindow.dfm"/><File FileName="Bookshelf_DRC.rc" ContainerId="W32RC" ModuleName="Bookshelf_DRC.rc"/></FileList></W32ResourceDLL.Personality>
+</BorlandProject>
